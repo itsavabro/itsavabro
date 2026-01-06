@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=590&lines=$+hello+world;$+welcome+to+my+github" />
+
+</div>
+
+
 # 👨🏾‍💻 João Vitor Vieira
 
 Estudante de **Engenharia de Software** na Universidade de Brasília (UnB), cursando atualmente o 8 semestre. Meus estudos focam desenvolvimento web e 
