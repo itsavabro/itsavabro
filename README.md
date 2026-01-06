@@ -5,7 +5,7 @@
 </div>
 
 
-# 👨🏾‍💻 João Vitor Vieira
+# 🌴 João Vitor Vieira
 
 Estudante de **Engenharia de Software** na Universidade de Brasília (UnB), cursando atualmente o 8 semestre. Meus estudos focam desenvolvimento web e 
 
