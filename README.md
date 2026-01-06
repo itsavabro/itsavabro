@@ -7,7 +7,7 @@
 
 # 🌴 João Vitor Vieira
 
-Estudante de **Engenharia de Software** na Universidade de Brasília (UnB), cursando atualmente o 8 semestre. Meus estudos focam desenvolvimento web e 
+Estudante de **Engenharia de Software** na Universidade de Brasília (UnB), cursando atualmente o 8 semestre. Meus estudos focam em projetos e soluções web diversificados.
 
 ---
 
