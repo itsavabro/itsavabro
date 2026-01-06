@@ -14,6 +14,7 @@ Estudante de **Engenharia de Software** na Universidade de Brasília (UnB), curs
 ### 📫 Contatos
 
 <a href="mailto:joao08.vieira@gmail.com"><img src="https://img.shields.io/badge/Email-joao08.vieira@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-vieira-615b99271/"><img src="https://img.shields.io/badge/LinkedIn-João Vitor Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 
 ---
 
